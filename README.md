@@ -16,3 +16,6 @@ percentage of correct answers (accuracy * 100)
 1) eda - look at the data and find some patterns or obvious answers
 2) log_reg - thinking a lot of features (mostly binary) + add features from public notebook and put it to scaller + simple logistic regression
 3) xgboost - take all features from log_reg, add smth more and put it to scaller + xgboost
+
+**Competition page:**
+https://ods.ai/tracks/linear-models-spring23/competitions/gates/leaderboard
