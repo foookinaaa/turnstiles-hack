@@ -14,9 +14,9 @@ test: [2023-01-03 - 2023-02-24]
 
 **Metric:**  
 percentage of correct answers (accuracy * 100)     
-- baseline public score: 0.1285794497      
-- logreg public score: 0.1779898933
-- xgboost public score: 0.2810218978
+- baseline public score: 0.1286    
+- logreg public score: 0.1780
+- xgboost public score: 0.2810
 
 **Decision:**
 1) eda - look at the data and find some patterns or obvious answers
