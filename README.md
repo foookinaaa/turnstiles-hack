@@ -13,10 +13,10 @@ test: [2023-01-03 - 2023-02-24]
 - gate_id: Number of the turnstile (barrier, entrance to the floor) (16 unique gates)
 
 **Metric:**  
-percentage of correct answers (accuracy * 100)
-baseline public score: 0.1285794497
-logreg public score: 0.1779898933
-xgboost public score: 0.2810218978
+percentage of correct answers (accuracy * 100)     
+- baseline public score: 0.1285794497      
+- logreg public score: 0.1779898933
+- xgboost public score: 0.2810218978
 
 **Decision:**
 1) eda - look at the data and find some patterns or obvious answers
