@@ -7,7 +7,9 @@ Will we be able to learn how each of the visitors to the office arrives, and pre
 
 **Data:**
 - user_id: Target. User number. (57 unique users)
-- ts: Date and time of passage through the turnstile. (train: [2022-07-29 - 2022-12-31]; test: [2023-01-03 - 2023-02-24])
+- ts: Date and time of passage through the turnstile   
+train: [2022-07-29 - 2022-12-31]  
+test: [2023-01-03 - 2023-02-24]
 - gate_id: Number of the turnstile (barrier, entrance to the floor) (16 unique gates)
 
 **Metric:**  
